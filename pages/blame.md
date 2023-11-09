@@ -4,4 +4,4 @@
 2. [质问VocaValley站安全危机事件相关责任人员](/index.html?page=pages/blames/Blame-to-the-leader-of-vocavalley.md)（作者：YQ之神）
 
 -----
-**欢迎投稿**
+**欢迎投稿，详情见下方“关于本站”**
