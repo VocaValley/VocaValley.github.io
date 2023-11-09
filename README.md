@@ -17,6 +17,7 @@
 ```markdown
 [查看README](/index.html?page=README.md)
 ```
+Markdown样式参考：[/index.html?page=pages/test.md](/index.html?page=pages/test.md)  
 
 ## Markdown技术支持
 - [MarkdownIt](https://github.com/markdown-it/markdown-it)
