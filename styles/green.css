@@ -1,0 +1,10 @@
+@import "./purple.css";
+.markdown-purple,
+.purple {
+    --title-color: #2aa899;
+    --link-color: #2aa899;
+    --code-color: #2aa899;
+    --inline-code-bg: #f2f9f8;
+    --border-quote: var(--border-quote-grey);
+    --header-weight: bold;
+}

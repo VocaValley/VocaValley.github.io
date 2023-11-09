@@ -18,4 +18,5 @@
 ```
 
 ## Markdown技术支持
-[MarkdownIt](https://github.com/markdown-it/markdown-it)
+- [MarkdownIt](https://github.com/markdown-it/markdown-it)
+- [typora-purple-theme](https://github.com/hliu202/typora-purple-theme)
