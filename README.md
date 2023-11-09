@@ -6,7 +6,7 @@
 - 文件命名字符仅限`a-z`、`A-Z`、`0-9`及符号`-_.`，不可带有空格。
 - Markdown页面文件应妥善命名后放入根目录下**pages**文件夹。
 - 素材文件应妥善命名后放入根目录下**assets**文件夹中对应分类中，杂项请放入**misc**分类。
-- 投稿请开pull request，也接受通过issue的投稿。
+- 投稿请开[pull request](https://github.com/VocaValley/VocaValley.github.io/pulls)，也接受通过[issue](https://github.com/VocaValley/VocaValley.github.io/issues)的投稿。
 
 ## Markdown页面渲染
 将Markdown文件路径作为`page`参数传递给**index.html**以实现Markdown页面渲染。  
