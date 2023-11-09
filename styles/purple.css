@@ -60,7 +60,7 @@
     --item-hover-bg-color: var(--shadow-color);
     --active-file-border-color: var(var(--title-color));
     --base-font: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --title-font: "EB Garamond", "Source Sans Pro", serif;
+    --title-font: "EB Garamond", "Source Sans Pro", "Open Sans", serif;
     --monospace: Courier, Monospace !important;
 }
 
