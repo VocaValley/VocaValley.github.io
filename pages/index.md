@@ -1,7 +1,7 @@
 <div class='ad'>
     <i class="ad-iconfont">&#xe633;</i>
     <p class='ad-content'>
-        <span class='ad-text'><span>本着“兼听则明，偏信则暗”的原则，现增设</span><a herf="/index.html?page=pages/conside.md">《反方意见》</a><span>栏目，并接受符合</span><a herf="/index.html?page=README.md">投稿要求</a><span>的投稿。</span></span>
+        <span class='ad-text'><span>本着“兼听则明，偏信则暗”的原则，现增设</span><a href="/index.html?page=pages/conside.md">《反方意见》</a><span>栏目，并接受符合</span><a href="/index.html?page=README.md">投稿要求</a><span>的投稿。</span></span>
     </p>
 </div>
 <style>
